@@ -2,7 +2,7 @@
 
 ### Info: Involves old rebuilt code. Current functionality somewhat limited. In the process of being expanded.
 
-###Copyright 2019, Saikat Roy, Nibaran Das, Mahantapas Kundu, Mita Nasipuri, All rights reserved.
+### Copyright 2019, Saikat Roy, Nibaran Das, Mahantapas Kundu, Mita Nasipuri, All rights reserved.
 
 ### Dependencies
 
